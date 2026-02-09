@@ -1,0 +1,2 @@
+HumanMessage(content="Hello")
+AIMessage(content="Hi! How can I help you?")
