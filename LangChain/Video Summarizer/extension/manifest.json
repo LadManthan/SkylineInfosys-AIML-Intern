@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "AI Video Summarizer",
+  "version": "1.0",
+  "description": "Summarize YouTube videos instantly.",
+  "permissions": ["activeTab","downloads"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "http://127.0.0.1:8000/*"
+  ]
+}
